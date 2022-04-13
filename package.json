@@ -1,0 +1,30 @@
+{
+  "name": "demo_pb_34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "5.0.1",
+    "compression": "1.7.4",
+    "connect-mongo": "4.6.0",
+    "ejs": "3.1.6",
+    "express": "4.17.3",
+    "express-session": "1.17.2",
+    "moment": "2.29.1",
+    "mongoose": "6.2.4",
+    "normalizr": "3.6.2",
+    "passport": "0.5.2",
+    "passport-local": "1.0.0",
+    "winston": "3.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "16.0.0"
+  }
+}
